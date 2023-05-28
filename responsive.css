@@ -82,11 +82,14 @@ FOOTER
 	footer .nike{
 		margin-left: 150px;
 	}
+	footer fieldset{
+	border: 8px solid white;
+	}
 	footer legend{
 	font-size: 28px;
 	margin-left: -26px;
 	color: white;
-	margin-bottom: 70px;
+	margin-bottom: 100px;
 	}
 }
 
