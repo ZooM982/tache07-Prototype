@@ -80,6 +80,7 @@ FOOTER
 		display: grid;
 	}
 	footer .nike{
+		margin-top: 50px;
 		margin-left: 150px;
 	}
 	footer fieldset{
@@ -93,8 +94,8 @@ FOOTER
 	}
 	footer legend p{
 	width: 130px;
+	height: 100px;
 	padding-top: 70px;
-	margin-left: -10px;
 	}
 }
 
