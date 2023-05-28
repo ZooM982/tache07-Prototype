@@ -80,7 +80,6 @@ FOOTER
 		display: grid;
 	}
 	footer .nike{
-		margin-top: 50px;
 		margin-left: 150px;
 	}
 	footer legend{
@@ -88,6 +87,6 @@ FOOTER
 	margin-left: -22px;
 	color: white;
 	margin-bottom: 70px;
-}
+	}
 }
 
