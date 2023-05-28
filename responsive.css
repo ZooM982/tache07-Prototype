@@ -1,0 +1,87 @@
+@media screen and (max-width: 900px) {
+	*{
+		margin: 0;
+	}
+	body{
+		width: 900px;
+	}
+	html{
+		width: 900px;
+	}
+/*---------------------------------------------------------------------------------------------------------------------------------------
+HEADER
+---------------------------------------------------------------------------------------------------------------------------------------*/
+	header{
+		width: 900px;
+		height: 110px;
+	}
+	header .ligne1 img{
+	width: 100px;
+	height: 100px;
+	margin-top: -30px;
+	}
+	header .part1{
+		height: 60px;
+	}
+	header .ligne1{
+		margin-left: 130px;
+		height: 25px;
+	}
+	header .ligne1 p{
+		margin-left: 4px;
+	}
+	header .ligne2{
+		margin-left: 120px;
+		height: 25px;
+	}
+	header .A-btn{
+		margin-left: 120px;
+	}
+	header .btn{
+		width: 60px;
+		font-size: 12.5px;
+	}
+	header .icon{
+		margin-left: 80px;
+	}
+/*---------------------------------------------------------------------------------------------------------------------------------------
+MAIN
+---------------------------------------------------------------------------------------------------------------------------------------*/
+	main{
+		width: 900px;
+		height: 800px;
+	}
+	main .logo{
+		height: 200px;
+		margin-left: -200px;
+	}
+	main .text{
+		height: 250px;
+	}
+	main .text h1{
+	font-size: 50px;
+	width: 100%;
+	}
+	main .text p{
+	font-size: 13px;
+	}
+	main .more{
+		height: 200px;
+		margin-left: -250px;
+	}
+/*---------------------------------------------------------------------------------------------------------------------------------------
+FOOTER
+---------------------------------------------------------------------------------------------------------------------------------------*/
+	footer{
+		width: 900px;
+		height: 800px;
+	}
+	footer .image{
+		display: grid;
+	}
+	footer .nike{
+		margin-top: 50px;
+		margin-left: 150px;
+	}
+}
+
