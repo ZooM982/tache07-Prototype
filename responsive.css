@@ -3,46 +3,47 @@
 		margin: 0;
 	}
 	body{
-		width: 800px;
+		width: 550px;
 	}
 	html{
-		width: 800px;
+		width: 550px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 HEADER
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 	header{
-		width: 800px;
+		width: 550px;
 		height: 110px;
 	}
 	header .ligne1 img{
 	width: 100px;
 	height: 100px;
-	margin-top: -30px;
+	margin-top: -48px;
 	}
 	header .part1{
 		height: 60px;
 	}
 	header .ligne1{
-		margin-left: 120px;
+		margin-left: 100px;
 		height: 25px;
+		width: 200px;
 	}
 	header .ligne1 p{
 		margin-left: 4px;
 	}
 	header .ligne2{
-		margin-left: 50px;
+		margin-left: 30px;
 		height: 25px;
 	}
 	header .A-btn{
-		margin-left: 120px;
+		margin-left: 100px;
 	}
 	header .btn{
-		width: 70px;
-		font-size: 12.5px;
+		width: 50px;
+		font-size: 10px;
 	}
 	header .icon{
-		margin-left: 100px;
+		margin-left: 0px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 MAIN
@@ -50,7 +51,7 @@ MAIN
 	main{
 		background-image: url(images/puma2.jpg);
 		background-repeat: no-repeat;
-		width: 800px;
+		width: 550px;
 		height: 700px;
 	}
 	main .contenaire{
@@ -58,13 +59,14 @@ MAIN
 	}
 	main .logo{
 		height: 200px;
-		margin-left: -250px;
+		margin-left: -350px;
 	}
 	main .text{
 		height: 250px;
+		width: 500px;
 	}
 	main .text h1{
-	font-size: 50px;
+	font-size: 45px;
 	width: 100%;
 	}
 	main .text p{
@@ -72,13 +74,13 @@ MAIN
 	}
 	main .more{
 		height: 200px;
-		margin-left: -300px;
+		margin-left: -400px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 FOOTER
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 	footer{
-		width: 800px;
+		width: 550px;
 		height: 800px;
 	}
 	footer .image{
@@ -86,14 +88,18 @@ FOOTER
 	}
 	footer .nixon{
 		margin-top: -100px;
-		margin-left: 130px;
+		margin-left: 15px;
+		width: 500px;
 	}
 	footer .nike{
 		margin-top: 50px;
-		margin-left: 130px;
+		margin-left: 15px;
+		width: 500px;
 	}
 	footer fieldset{
 	border: 8px solid white;
+	margin-left: -10px;
+	width: 400px;
 	}
 	footer legend{
 	font-size: 28px;
