@@ -1,18 +1,18 @@
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 600px) {
 	*{
 		margin: 0;
 	}
 	body{
-		width: 900px;
+		width: 800px;
 	}
 	html{
-		width: 900px;
+		width: 800px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 HEADER
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 	header{
-		width: 900px;
+		width: 800px;
 		height: 110px;
 	}
 	header .ligne1 img{
@@ -24,37 +24,41 @@ HEADER
 		height: 60px;
 	}
 	header .ligne1{
-		margin-left: 130px;
+		margin-left: 120px;
 		height: 25px;
 	}
 	header .ligne1 p{
 		margin-left: 4px;
 	}
 	header .ligne2{
-		margin-left: 120px;
+		margin-left: 50px;
 		height: 25px;
 	}
 	header .A-btn{
 		margin-left: 120px;
 	}
 	header .btn{
-		width: 60px;
+		width: 70px;
 		font-size: 12.5px;
 	}
 	header .icon{
-		margin-left: 80px;
+		margin-left: 100px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 MAIN
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 	main{
-		width: 900px;
-		height: 800px;
 		background-image: url(images/puma2.jpg);
+		background-repeat: no-repeat;
+		width: 800px;
+		height: 700px;
+	}
+	main .contenaire{
+		height: 110px;
 	}
 	main .logo{
 		height: 200px;
-		margin-left: -200px;
+		margin-left: -250px;
 	}
 	main .text{
 		height: 250px;
@@ -68,21 +72,25 @@ MAIN
 	}
 	main .more{
 		height: 200px;
-		margin-left: -250px;
+		margin-left: -300px;
 	}
 /*---------------------------------------------------------------------------------------------------------------------------------------
 FOOTER
 ---------------------------------------------------------------------------------------------------------------------------------------*/
 	footer{
-		width: 900px;
+		width: 800px;
 		height: 800px;
 	}
 	footer .image{
 		display: grid;
 	}
+	footer .nixon{
+		margin-top: -100px;
+		margin-left: 130px;
+	}
 	footer .nike{
 		margin-top: 50px;
-		margin-left: 150px;
+		margin-left: 130px;
 	}
 	footer fieldset{
 	border: 8px solid white;
