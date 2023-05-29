@@ -50,6 +50,7 @@ MAIN
 	main{
 		width: 900px;
 		height: 800px;
+		background-image: url(images/puma2.jpg);
 	}
 	main .logo{
 		height: 200px;
